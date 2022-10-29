@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     slackUsername: 'littignatius',
     backend: true,
     age: 27,
-    biography: 'I am a backend dev interning at HNG, looking forward to make the best out of this internship.',
+    bio: 'I am a backend dev interning at HNG, looking forward to make the best out of this internship.',
 
   });
 });
